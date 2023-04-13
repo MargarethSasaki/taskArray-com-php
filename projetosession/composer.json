@@ -1,0 +1,10 @@
+{
+    "name": "admin/projetosession",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Projetosession\\": "src/"
+        }
+    },
+    "require": {}
+}
